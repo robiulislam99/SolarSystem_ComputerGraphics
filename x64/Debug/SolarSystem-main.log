@@ -1,0 +1,821 @@
+﻿  main.cpp
+D:\4-2 the final\Graphich project\SolarSystem-main\Sphere.h(43,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\Sphere.h(133,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\Sphere.h(138,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\Sphere.h(214,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\Sphere2.h(189,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\Sphere2.h(190,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\Sphere2.h(192,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\Sphere2.h(269,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\Sphere2.h(270,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\Sphere2.h(274,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\Sphere2.h(325,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\Sphere2.h(326,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\Sphere2.h(331,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\HalfSphere.h(189,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\HalfSphere.h(190,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\HalfSphere.h(192,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\HalfSphere.h(270,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\HalfSphere.h(271,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\HalfSphere.h(275,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\HalfSphere.h(326,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\HalfSphere.h(327,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\HalfSphere.h(332,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\HalfSphere.h(322,24): warning C4101: 'xy': unreferenced local variable
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\curve.h(142,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\curve.h(142,28): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\curve.h(145,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\curve.h(155,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\curve.h(161,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\curve.h(162,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\fractoltree.h(129,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file '../main.cpp')
+  
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(30,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(206,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(210,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(415,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(423,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(423,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(423,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(423,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(423,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(423,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(423,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(423,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(423,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(423,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(423,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(423,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(423,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(423,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(423,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(424,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(424,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(424,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(424,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(424,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(424,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(424,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(424,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(424,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(424,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(425,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(425,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(425,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(425,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(425,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(425,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(425,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(425,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(425,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(425,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(425,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(425,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(425,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(425,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(425,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(426,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(426,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(426,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(426,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(426,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(426,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(426,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(426,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(426,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(426,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(426,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(426,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(426,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(426,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(426,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(427,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(427,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(427,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(427,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(427,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(427,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(427,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(427,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(427,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(427,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(427,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(427,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(427,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(427,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(427,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(428,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(428,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(428,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(428,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(428,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(428,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(428,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(428,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(428,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(428,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(429,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(429,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(429,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(429,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(429,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(429,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(429,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(429,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(429,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(429,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(429,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(429,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(429,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(429,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(429,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(430,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(430,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(430,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(430,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(430,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(430,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(430,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(430,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(430,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(430,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(430,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(430,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(430,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(430,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(430,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(431,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(431,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(431,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(431,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(431,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(431,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(431,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(431,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(431,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(431,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(431,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(431,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(431,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(431,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(431,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(432,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(432,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(432,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(432,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(432,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(432,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(432,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(432,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(432,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(432,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(432,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(432,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(432,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(432,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(432,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(433,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(433,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(433,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(433,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(433,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(433,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(433,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(433,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(433,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(433,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(433,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(433,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(433,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(433,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(433,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(434,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(434,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(434,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(434,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(434,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(434,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(434,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(434,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(434,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(434,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(434,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(434,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(434,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(434,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(434,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(435,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(435,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(435,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(435,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(435,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(435,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(435,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(435,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(435,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(435,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(435,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(435,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(435,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(435,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(435,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(436,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(436,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(436,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(436,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(436,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(436,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(436,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(436,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(436,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(436,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(436,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(436,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(436,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(436,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(436,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(437,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(437,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(437,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(437,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(437,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(437,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(437,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(437,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(437,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(437,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(437,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(437,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(437,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(437,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(437,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(438,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(438,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(438,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(438,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(438,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(438,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(438,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(438,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(438,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(438,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(438,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(438,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(438,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(438,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(438,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(439,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(439,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(439,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(439,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(439,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(439,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(439,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(439,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(439,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(439,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(440,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(440,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(440,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(440,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(440,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(440,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(440,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(440,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(440,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(440,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(440,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(440,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(440,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(440,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(440,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(441,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(441,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(441,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(441,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(441,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(441,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(441,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(441,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(441,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(441,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(441,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(441,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(441,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(441,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(441,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(442,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(442,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(442,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(442,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(442,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(442,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(442,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(442,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(442,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(442,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(442,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(442,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(442,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(442,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(442,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(443,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(443,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(443,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(443,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(443,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(443,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(443,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(443,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(443,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(443,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(443,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(443,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(443,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(443,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(443,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(444,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(444,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(444,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(444,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(444,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(444,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(444,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(444,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(444,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(444,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(444,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(444,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(444,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(444,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(444,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(445,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(445,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(445,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(445,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(445,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(445,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(445,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(445,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(445,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(445,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(445,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(445,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(445,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(445,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(445,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(446,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(446,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(446,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(446,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(446,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(446,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(446,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(446,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(446,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(446,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(446,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(446,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(446,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(446,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(446,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(447,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(447,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(447,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(447,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(447,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(447,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(447,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(447,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(447,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(447,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(448,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(448,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(448,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(448,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(448,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(448,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(448,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(448,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(448,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(448,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(448,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(448,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(448,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(448,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(448,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(497,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(497,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(497,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(497,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(497,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(497,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(497,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(497,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(497,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(497,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(497,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(497,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(497,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(497,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(497,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(498,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(498,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(498,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(498,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(498,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(498,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(498,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(498,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(498,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(498,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(498,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(498,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(498,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(498,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(498,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(499,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(499,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(499,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(499,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(499,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(499,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(499,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(499,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(499,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(499,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(499,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(499,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(499,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(499,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(499,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(500,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(500,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(500,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(500,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(500,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(500,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(500,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(500,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(500,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(500,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(500,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(500,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(500,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(500,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(500,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(501,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(501,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(501,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(501,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(501,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(501,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(501,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(501,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(501,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(501,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(501,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(501,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(501,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(501,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(501,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(502,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(502,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(502,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(502,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(502,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(502,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(502,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(502,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(502,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(502,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(502,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(502,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(502,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(502,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(502,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(503,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(503,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(503,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(503,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(503,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(503,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(503,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(503,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(503,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(503,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(503,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(503,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(503,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(503,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(503,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(504,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(504,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(504,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(504,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(504,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(504,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(504,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(504,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(504,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(504,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(504,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(504,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(504,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(504,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(504,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(505,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(505,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(505,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(505,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(505,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(505,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(505,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(505,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(505,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(505,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(505,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(505,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(505,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(505,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(505,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(506,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(506,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(506,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(506,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(506,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(506,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(506,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(506,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(506,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(506,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(506,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(506,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(506,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(506,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(506,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(507,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(507,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(507,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(507,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(507,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(507,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(507,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(507,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(507,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(507,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(508,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(508,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(508,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(508,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(508,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(508,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(508,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(508,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(508,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(508,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(508,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(508,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(508,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(508,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(508,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(509,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(509,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(509,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(509,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(509,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(509,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(509,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(509,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(509,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(509,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(509,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(509,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(509,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(509,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(509,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(510,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(510,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(510,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(510,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(510,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(510,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(510,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(510,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(510,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(510,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(510,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(510,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(510,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(510,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(510,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(511,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(511,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(511,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(511,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(511,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(511,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(511,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(511,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(511,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(511,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(511,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(511,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(511,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(511,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(511,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(512,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(512,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(512,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(512,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(512,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(512,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(512,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(512,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(512,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(512,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(512,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(512,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(512,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(512,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(512,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(513,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(513,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(513,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(513,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(513,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(513,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(513,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(513,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(513,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(513,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(513,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(513,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(513,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(513,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(513,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(514,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(514,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(514,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(514,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(514,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(514,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(514,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(514,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(514,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(514,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(514,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(514,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(514,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(514,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(514,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(517,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(517,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(517,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(517,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(517,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(517,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(517,9): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(517,9): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(517,9): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(517,9): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(517,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(517,17): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(517,17): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(517,17): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(517,17): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(518,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(518,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(518,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(518,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(518,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(518,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(518,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(518,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(518,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(518,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(518,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(518,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(518,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(518,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(518,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(519,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(519,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(519,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(519,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(519,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(519,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(519,10): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(519,10): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(519,10): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(519,10): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(519,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(519,18): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(519,18): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(519,18): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(519,18): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(520,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(520,1): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(520,1): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(520,1): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(520,1): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(520,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(520,9): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(520,9): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(520,9): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(520,9): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(520,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(520,17): warning C4305:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(520,17): warning C4305:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(520,17): warning C4305:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(520,17): warning C4305:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(542,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(550,49): warning C4838: conversion from 'int' to '_Ty' requires a narrowing conversion
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(550,49): warning C4838:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(550,49): warning C4838:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(550,49): warning C4838:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(550,49): warning C4838:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(550,49): warning C4244: 'initializing': conversion from 'int' to '_Ty', possible loss of data
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(550,49): warning C4244:         with
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(550,49): warning C4244:         [
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(550,49): warning C4244:             _Ty=float
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(550,49): warning C4244:         ]
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(697,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(757,20): warning C4305: '+=': truncation from 'double' to 'float'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(832,44): warning C4305: '=': truncation from 'double' to 'float'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(836,23): warning C4305: '-=': truncation from 'double' to 'float'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(888,19): warning C4305: '-=': truncation from 'double' to 'float'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(893,19): warning C4305: '+=': truncation from 'double' to 'float'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(897,19): warning C4305: '-=': truncation from 'double' to 'float'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(901,19): warning C4305: '+=': truncation from 'double' to 'float'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(928,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(933,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(938,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(943,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(953,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(993,19): warning C4305: '-=': truncation from 'double' to 'float'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(997,19): warning C4305: '+=': truncation from 'double' to 'float'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(1001,19): warning C4305: '-=': truncation from 'double' to 'float'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(1005,19): warning C4305: '+=': truncation from 'double' to 'float'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(1238,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\4-2 the final\Graphich project\SolarSystem-main\main.cpp(1257,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SolarSystem-main.vcxproj -> D:\4-2 the final\Graphich project\SolarSystem-main\SolarSystem-main\x64\Debug\SolarSystem-main.exe
